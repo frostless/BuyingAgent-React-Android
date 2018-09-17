@@ -1,0 +1,4 @@
+#Mon Sep 17 20:06:41 AEST 2018
+base.0=/Users/weizheng/Desktop/BuyingAgent React Android 20-01-48-402/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/weizheng/Desktop/BuyingAgent React Android 20-01-48-402/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

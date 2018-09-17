@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/weizheng/Desktop/BuyingAgent React Android 20-01-48-402/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/weizheng/Desktop/BuyingAgent React Android 20-01-48-402/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.1/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/weizheng/Desktop/BuyingAgent React Android copy 2/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/weizheng/Desktop/BuyingAgent React Android copy 2/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.1/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/weizheng/Desktop/BuyingAgent React Android/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/weizheng/Desktop/BuyingAgent React Android/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.1/res/layout-v16/notification_template_custom_big.xml"
+    }
+]

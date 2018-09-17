@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/weizheng/Desktop/BuyingAgent React Android/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/weizheng/Desktop/BuyingAgent React Android/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/weizheng/Desktop/BuyingAgent React Android 20-01-48-402/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/weizheng/Desktop/BuyingAgent React Android 20-01-48-402/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/weizheng/Desktop/BuyingAgent React Android copy 2/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/weizheng/Desktop/BuyingAgent React Android copy 2/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

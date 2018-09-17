@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/weizheng/Desktop/BuyingAgent React Android 20-01-48-402/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/weizheng/Desktop/BuyingAgent React Android 20-01-48-402/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/weizheng/Desktop/BuyingAgent React Android/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/weizheng/Desktop/BuyingAgent React Android/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/weizheng/Desktop/BuyingAgent React Android copy 2/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/weizheng/Desktop/BuyingAgent React Android copy 2/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/xml/preferences.xml"
+    }
+]
