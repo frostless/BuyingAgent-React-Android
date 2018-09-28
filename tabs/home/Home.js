@@ -371,7 +371,7 @@ class HomeView extends Component {
           defaultValue="邮递"
         >
         </ModalDropdown>
-        <View style={styles.column}>
+        <View style={[styles.column,styles.columnTextBox]}>
           {renderIf(this.state.totalPrice != null)(
             <View style={styles.row}>
               <Text>价钱 :</Text>
@@ -486,6 +486,9 @@ const styles = StyleSheet.create({
   },
   column: {
     flexDirection: 'column',
+  },
+  columnTextBox: {
+    marginBottom: 8
   },
   row: {
     flexDirection: 'row',
