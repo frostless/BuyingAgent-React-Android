@@ -42,7 +42,7 @@ class HomeView extends Component {
     totalPrice: null,
     totalCharged: null,
     totalProfit: null,
-    isVisitEndable: false,
+    isVisitEnabled: false,
     isLoading: false
   }
   baseState = this.state;//copy of the initial state
@@ -428,7 +428,7 @@ class HomeView extends Component {
           </TouchableHighlight>
         )}
 
-        {renderIf(this.state.isVisitEndable)(
+        {renderIf(this.state.isVisitEnabled)(
           <TouchableHighlight
             style={styles.button}
             onPress={() => this.OnEndBtnClicked()}
